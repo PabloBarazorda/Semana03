@@ -1,0 +1,12 @@
+package TestEntidades;
+
+import model.TblCliente;
+
+public class TestEntidadCliente {
+
+	public static void main(String[] args) {
+		TblCliente cliente = new TblCLiente();
+		
+	}
+
+}

@@ -1,0 +1,5 @@
+package Interfaces;
+
+public interface ICliente {
+public void RegistrarCliente (TblCliente cliente);
+}

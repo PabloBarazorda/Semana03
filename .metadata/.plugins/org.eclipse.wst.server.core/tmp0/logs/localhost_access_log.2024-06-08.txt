@@ -1,0 +1,4 @@
+127.0.0.1 - - [08/Jun/2024:11:33:32 -0500] "GET / HTTP/1.1" 404 1002
+0:0:0:0:0:0:0:1 - - [08/Jun/2024:11:33:34 -0500] "GET /ProyectoMavenSabadoJPA/ HTTP/1.1" 200 72
+127.0.0.1 - - [08/Jun/2024:16:29:08 -0500] "GET / HTTP/1.1" 404 1002
+0:0:0:0:0:0:0:1 - - [08/Jun/2024:16:29:10 -0500] "GET /ProyectoMavenSabadoJPA/ListadoClientes.jsp HTTP/1.1" 200 349

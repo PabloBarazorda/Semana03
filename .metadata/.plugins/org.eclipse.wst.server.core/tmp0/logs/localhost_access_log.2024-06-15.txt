@@ -1,0 +1,10 @@
+127.0.0.1 - - [15/Jun/2024:11:07:11 -0500] "GET / HTTP/1.1" 404 1002
+0:0:0:0:0:0:0:1 - - [15/Jun/2024:11:07:12 -0500] "GET /ProyectoMavenSabadoJPA/FormRegistrarCliente.jsp HTTP/1.1" 200 1072
+0:0:0:0:0:0:0:1 - - [15/Jun/2024:11:24:37 -0500] "POST /ProyectoMavenSabadoJPA/ControladorCliente HTTP/1.1" 500 1956
+127.0.0.1 - - [15/Jun/2024:11:34:25 -0500] "GET / HTTP/1.1" 404 1002
+0:0:0:0:0:0:0:1 - - [15/Jun/2024:11:34:25 -0500] "GET /ProyectoMavenSabadoJPA/ControladorCliente HTTP/1.1" 200 34
+0:0:0:0:0:0:0:1 - - [15/Jun/2024:11:34:42 -0500] "GET /ProyectoMavenSabadoJPA/FormRegistrarCliente.jsp HTTP/1.1" 200 1072
+0:0:0:0:0:0:0:1 - - [15/Jun/2024:11:40:10 -0500] "POST /ProyectoMavenSabadoJPA/ControladorCliente HTTP/1.1" 500 1956
+127.0.0.1 - - [15/Jun/2024:11:55:57 -0500] "GET / HTTP/1.1" 404 1002
+0:0:0:0:0:0:0:1 - - [15/Jun/2024:11:55:58 -0500] "GET /ProyectoMavenSabadoJPA/FormRegistrarCliente.jsp HTTP/1.1" 200 1072
+0:0:0:0:0:0:0:1 - - [15/Jun/2024:11:56:31 -0500] "POST /ProyectoMavenSabadoJPA/ControladorCliente HTTP/1.1" 500 1956
